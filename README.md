@@ -1,6 +1,6 @@
-# Back to the Future! Studying Data Cleanness in Defects4J and its Impact on Fault Localization
+# Revisiting Defects4J for Fault Localization in Diverse Development Scenarios
 
-This is the public repository for the paper: "Back to the Future! Studying Data Cleanness in Defects4J and its Impact on Fault Localization"
+This is the public repository for the paper: "Revisiting Defects4J for Fault Localization in Diverse Development Scenarios"
 
 ```
 │
