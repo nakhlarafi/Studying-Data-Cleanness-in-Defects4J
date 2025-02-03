@@ -6,6 +6,8 @@ This is the public repository for the paper: "Revisiting Defects4J for Fault Loc
 │
 ├── patterns              Dataset on individual change pattern (RQ1)
 │  
+├── scripts               Scripts to gather data
+│
 ├── manual_study
 │   ├── code_changes      For every bug, we provide code changes on the individual faul-triggering tests between the bug creation and resolution.
 │   └─ manual.xlsx        Process and results of manual study (RQ2)
